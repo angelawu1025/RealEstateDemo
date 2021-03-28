@@ -15,3 +15,4 @@
 docker-compose up
 ```
 4. Open the <a href='http://localhost:8085'>http://localhost:8085</a> on browser. Or you could open the docker desktop  to view the RealEstate containers.
+5. Login the airflow dashboard (account / pwd: airflow / airflow), and you can view the DAG info.
